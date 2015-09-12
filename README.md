@@ -1,3 +1,10 @@
+## Presumption: the data set is downloaded and unzipped into a working dir with the path "data/household_power_consumption.txt"
+## the data is ordered by date, so we only need to identify, where the asked date starts and ends
+
+## the script getDataProject1.R manages getting the used subset of data.
+## the plot scripts do the plotting.
+
+
 ## Introduction
 
 This assignment uses data from
